@@ -83,7 +83,8 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=codedbymattheo&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=codedbymattheo&&style=flat-square" align="center" /> 
+<br />
 <img src="https://www.codewars.com/users/codedbymattheo/badges/large" align="center" />
 </div>  
   
