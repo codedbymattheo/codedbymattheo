@@ -3,7 +3,8 @@
   
 
 ### <div align="center">👋Hi, I am mattheo [mateo]</div>  
-<div align="center">I speak several languages - Czech, English, Spanish, Italian and Russian. I am violinist and guitarist and I love art and books.</div>
+<div align="center">I speak several languages - Czech, English, Spanish, Italian and Russian.</div>
+<div align="center">In my free time I love to play violin and guitar. My interests are literature and art</div>
   
 
 <br/>  
