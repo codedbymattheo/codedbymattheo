@@ -6,6 +6,7 @@
 <div align="center">💬 I speak several languages - Czech, English, Spanish, Italian and Russian.</div>
 <div align="center">🎻 In my free time I love to play violin and guitar.</div>
 <div align="center">📚 I'm interested in literature and art.</div>
+<div align="center">🥊 I've been boxing for four years now. </div>
 <div align="center">🌱 And last but not least, I love to take care of my bonsai trees.</div>
   
 
