@@ -4,8 +4,8 @@
 
 ### <div align="center">👋Hi, I am mattheo [mateo]</div>  
 <div align="center">💬 I speak several languages - Czech, English, Spanish, Italian and Russian.</div>
-<div align="center">🎻 In my free time I love to play violin and guitar (sometimes even ukulele).</div>
-<div align="center">📚 I'm interested in literature and art.</div>
+<div align="center">🎻 I play several instruments (violin, guitar and piano).</div>
+<div align="center">📚 I'm interested in collecting literature and art pieces.</div>
 <div align="center">🥊 I've been boxing for four years now. </div>
   
 
